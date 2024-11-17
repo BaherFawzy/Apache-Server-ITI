@@ -1,6 +1,3 @@
-
----
-
 # Apache Server Project
 
 This repository contains the configuration and setup for an Apache HTTP Server environment, developed as part of an ITI project. The aim is to deploy and manage a secure, scalable, and reliable web server.
@@ -87,8 +84,3 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Create a Pull Request on GitHub.
 
-
-## Contact
-
-For questions or feedback, contact **Baher Fawzy** via:
-- GitHub: [BaherFawzy](https://github.com/BaherFawzy)
